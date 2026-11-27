@@ -43,7 +43,7 @@ setup(
     name='torch_layers',
     version=layer_version,
     packages=find_packages(),
-    url='https://github.com/justusschock/torch_layers',
+    url='https://github.com/justusperillieux/torch_layers',
     license=license,
     author='Justus Schock',
     author_email='justus.schock@rwth-aachen.de',

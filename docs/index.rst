@@ -12,7 +12,7 @@ Welcome to ``torch_layers`` Documentation!
 
    API Documentation <_api/_build/modules>
 
-   GitHub <https://github.com/justusschock/torch_layers>
+   GitHub <https://github.com/justusperillieux/torch_layers>
 
 
 Indices and tables
