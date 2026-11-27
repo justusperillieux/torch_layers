@@ -1,6 +1,6 @@
 # Custom PyTorch layers
 
-[![Build Status](https://travis-ci.com/justusschock/torch_layers.svg?branch=master)](https://travis-ci.com/justusschock/torch_layers) [![codecov](https://codecov.io/gh/justusschock/torch_layers/branch/master/graph/badge.svg)](https://codecov.io/gh/justusschock/torch_layers)
+[![Build Status](https://travis-ci.com/justusperillieux/torch_layers.svg?branch=master)](https://travis-ci.com/justusperillieux/torch_layers) [![codecov](https://codecov.io/gh/justusperillieux/torch_layers/branch/master/graph/badge.svg)](https://codecov.io/gh/justusperillieux/torch_layers)
 
 This repository implements various layers (either to replace deprecated layers of [`torch`](https://github.com/pytorch/pytorch) or to add useful new features or to encapsulate parts of the functional API into layers).
 
@@ -22,5 +22,5 @@ pip install torch_layers
 or from source via:
 
 ```
-pip install git+https://github.com/justusschock/torch_layers
+pip install git+https://github.com/justusperillieux/torch_layers
 ```
